@@ -27,7 +27,7 @@ Before getting started, ensure you have the following installed:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/event-search-app.git 
+git clone https://github.com/vishvesh1/event-search-app.git 
 cd event-search-app
 
 ### 2. Configure Environment Variables
