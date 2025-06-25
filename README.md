@@ -19,7 +19,7 @@ A full-stack event search application with a Django backend, MongoDB database, a
 Before getting started, ensure you have the following installed:
 
 - Python 3.10+
-- Node.js 18+
+- Django
 - MongoDB (local or remote)
 - Basic terminal/command line knowledge
 
